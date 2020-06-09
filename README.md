@@ -17,6 +17,7 @@ Graduando em Engenharia de Exploração e Produção de Petróleo pela Universid
 
 ## Projetos:
 Veja os tutoriais publicados do Pedro Thyago:
+* **Analisando dados do Airbnb de Buenos Aires:** https://bit.ly/2UpsLcq 
 
 
 
