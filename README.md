@@ -20,6 +20,7 @@ Veja os tutoriais publicados do Pedro Thyago:
 * **Analisando dados do Airbnb de Buenos Aires:** https://bit.ly/2UpsLcq 
 * **Analisando a violência no Rio de janeiro:** https://bit.ly/2OaR2zl
 
-
+## Desafios
+* **Automação de sistemas e processos com Python:**
 
 ---
