@@ -10,8 +10,10 @@ Graduando em Engenharia de Exploração e Produção de Petróleo pela Universid
 
 **Background in:** Python.
 
+**Registro de Honra:** [Minicurso SQL Server](https://xd.adobe.com/view/9a081d71-a1af-47b5-8de5-6128d0f47049-cf5b/?fullscreen&hints=off)
+
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/thyago-pereira-eng/)
+* [LinkedIn](https://www.linkedin.com/in/eng-pedro-thyago-p-gomes/)
 * [Medium](https://medium.com/@pdro.gomesh)
 
 
